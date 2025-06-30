@@ -2,7 +2,7 @@
 
 само выполненное задание расположено в ветке "test"
 
-
+В готовом виде здесь: [https://zamdikhanov.github.io/test_2025-06-30/](https://zamdikhanov.github.io/test_2025-06-30/)
 
 
 ## Project Setup
